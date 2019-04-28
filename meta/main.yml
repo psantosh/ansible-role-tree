@@ -1,5 +1,5 @@
 galaxy_info:
-  name: tree
+  role_name: tree
   author: psantosh
   description: This role installs tree package
   company: My company
