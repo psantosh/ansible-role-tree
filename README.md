@@ -1,7 +1,7 @@
 psantosh.tree
 =========
 
-Installs tree package
+Installs tree package from repo
 
 Requirements
 ------------
